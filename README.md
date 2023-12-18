@@ -3,3 +3,5 @@ Diffrent ways for make form:-
 -useRef.
 -HTML properties, and JS formData().
 -Form libraries.
+//////
+Practice custom hook (useInput).
